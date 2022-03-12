@@ -1,2 +1,2 @@
-# Numerical-methods-C-language
-Numerical methods and C language / Méthodes numériques et langage C
+# Numerical methods in C language
+Numerical methods and C language
