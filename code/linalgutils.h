@@ -2,7 +2,7 @@
 /*---------------------------------------------------------------------------*/
 /**
   @file	linalgutils.h
-  @brief	simple functions for vector/matrix handling.
+  @brief simple functions for vector/matrix handling.
  **/
 /*--------------------------------------------------------------------------*/
 
