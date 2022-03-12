@@ -241,5 +241,4 @@ void vsum2(double * a, double *b, int n, double *c)
 
 
 
-
 #endif
